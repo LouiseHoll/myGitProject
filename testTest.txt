@@ -1,1 +1,1 @@
-testa
+Testa att jobba i git är kul. Många konstiga små kommandon att lära sig.
